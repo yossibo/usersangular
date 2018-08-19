@@ -1,0 +1,10 @@
+.col-sm-3 img {
+    width: 80%;
+}
+
+.person {
+    border: 1px solid #515151;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
